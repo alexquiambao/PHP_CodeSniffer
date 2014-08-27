@@ -6,8 +6,6 @@ About
 
 PHP\_CodeSniffer is a PHP5 script that tokenises PHP, JavaScript and CSS files to detect violations of a defined coding standard. It is an essential development tool that ensures your code remains clean and consistent. It can also help prevent some common semantic errors made by developers.
 
-[![Build Status](https://secure.travis-ci.org/squizlabs/PHP_CodeSniffer.png?branch=master)](https://travis-ci.org/squizlabs/PHP_CodeSniffer)
-
 Requirements
 ------------
 
